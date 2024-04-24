@@ -20,7 +20,7 @@ ELK stands for Elasticsearch, Logstash, and Kibana; ELK stack combines these thr
 
 <p align="center">
 1. The first thing we are going to do after setting up our free trial account and the instance is integrating Kibana. This can be done by going to the top search bar looking for Kibana and selecting “integrate.”: <br/>
-<img src="https://imgur.com/TCtCH8x.png" height="80%" width="80%" alt="ELK in the Cloud"/>
+<img src="https://imgur.com/WtRRqR1.png" height="80%" width="80%" alt="ELK in the Cloud"/>
 <br />
 <br />
 2. This will bring us to a screen that allows you to install the Elastic Agent on your host. In my setup, I am running a Windows VM, so I will select the Windows tab and copy that text to a .txt file.:  <br/>
