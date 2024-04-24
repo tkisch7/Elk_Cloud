@@ -38,7 +38,7 @@ ELK stands for Elasticsearch, Logstash, and Kibana; ELK stack combines these thr
 5. To make sure our device has successfully connected, we can navigate management, and check out our fleet. If done correctly, you will see the desktop that you added.:  <br/>
 <img src="https://imgur.com/k89xjJK.png" height="80%" width="80%" alt="ELK in the Cloud"/><br />
 <br />
-6. 6.)	To help make our logs more readable we will download Sysmon. Once Sysmon is downloaded you can navigate back to PowerShell and start Sysmon as a service.:  <br/>
+6. To help make our logs more readable we will download Sysmon. Once Sysmon is downloaded you can navigate back to PowerShell and start Sysmon as a service.:  <br/>
 <img src="https://imgur.com/PN5gnBA.png" height="80%" width="80%" alt="ELK in the Cloud"/><br />
 <br />
 7. Now that Sysmon is running, we need to set up our Elastic agent to be able to gather these logs. Navigate to management and click on integrations.:  <br/>
