@@ -56,7 +56,7 @@ ELK stands for Elasticsearch, Logstash, and Kibana; ELK stack combines these thr
 <img src="https://imgur.com/xHFLEWF.png" height="80%" width="80%" alt="ELK in the Cloud"/>
  <br />
 <br />
-11. At this point your instance should be receiving logs. To test this, we can play around with the computer that this is installed on by creating new directories, starting applications, etc.:  <br/>
+11. At this point your instance should be receiving logs. To test this, we can play around with the computer that this is installed on by creating new directories, starting applications, etc.  <br/>
  <br />
 <br />
 12. After you have created some log activity we can navigate to discover by clicking the hamburger menu. To view just the Sysmon logs we can add a filter.:  <br/>
