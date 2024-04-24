@@ -1,7 +1,7 @@
 <h1>Elk in the Cloud</h1>
 
 <h2>Description</h2>
-In this lab, I will be setting up an Elastic Instance using a free trial.
+In this lab, I will be setting up an Elastic Instance using a free trial.<br />
 <br />
 ELK stands for Elasticsearch, Logstash, and Kibana; ELK stack combines these three technologies and provides a solution when working with large sets of data. Elk enables defenders by allowing them to detect attacks and conduct threat hunting within the same platform. We can set up SIEM rules to alert us to attacks, work with dashboards, scale to your own needs, and more.
 <br />
